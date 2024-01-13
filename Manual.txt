@@ -1,0 +1,6 @@
+Đề bài: Hiệu ứng chạy chữ trên Led ma trận (Chuỗi chữ gửi từ PC qua serial)
+Các phần mềm sử dụng: Hercules, Configure virtual serial port driver, Proteus 8.11, KeilC uVision5.
+
+Trong đó: 
++ Configure virtual serial port driver: tạo cặp Com ảo cho việc truyền bằng serial.
++ Hercules: là nơi gửi dữ liệu xuống vi điều khiển bằng serial
