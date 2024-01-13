@@ -1,3 +1,4 @@
+"Đang Update"
 ## Giới thiệu
 Đề bài: Hiệu ứng chạy chữ trên Led ma trận (Chuỗi chữ gửi từ PC qua serial)
 
@@ -43,6 +44,9 @@ git clone https://github.com/dothaiduongg/TT_KTMT_cuoiky.git  # clone
 <p align="center">
   <img src="./Pictures/Compim.png" width="280"><br/>
   <i>Chọn và double click trái vào COMPIM.pdsprj" để mở file.</i>
+
+</p>
+<p align="center">
   <img src="./Pictures/Set_Com&baud.png" width="280"><br/>
   <i>Lựa chọn cổng COM và tốc độ baud phù hợp. Chọn OK</i><br/>
 </p>
