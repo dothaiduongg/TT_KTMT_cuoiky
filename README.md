@@ -64,9 +64,9 @@ git clone https://github.com/dothaiduongg/TT_KTMT_cuoiky.git  # clone
 </p>
 <p align="center">
     <img src="./Pictures/path_of_hex.png" width="280"><br/>
-    <i>Trỏ tới thư mục vừa clone</i>
+    <i>Trỏ tới thư mục vừa clone, chọn vào file "pro.hex", bấm open.</i>
 </p>
 <p align="center">
     <img src="./Pictures/finish set.png" width="280"><br/>
-    <i>Chọn và double click trái vào vi điều khiển.</i>
+    <i>Chọn OK.</i>
 </p>
